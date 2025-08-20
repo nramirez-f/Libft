@@ -1,4 +1,6 @@
-![Logo42Malaga](42Malaga.png)
+<p align="center">
+    <img src="42Malaga.png" alt="Logo de 42 Malaga" />
+</p>
 
 # Libft - My First C Library
 
